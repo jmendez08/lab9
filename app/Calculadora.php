@@ -36,7 +36,7 @@ class Calculadora{
         }
         return $arreglo;
     }
-    
+
     function generarArregloVacio()
     {
         $arreglo=array();
